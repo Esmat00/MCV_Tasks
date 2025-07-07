@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html >
+<head>
+
+</head>
+<body>
+
+    
+
+    <!-- <script src="javascript1.js"></script> -->
+
+
+<script>
+
+//  task 1
+let a = 5;
+let b = 10;
+
+a = a + b // 5 + 10 = 15
+b = a - b // 15 - 10 = 5
+a = a - b // 15 - 5 = 10
+
+console.log(`a = ${a} , b = ${b}`);
+
+
+// task 2
+
+
+let array1 =  [4, 9, 2, 7, 5];
+let max = 0;
+
+for (let i = 0; i < array1.length; i++) {
+    if (array1[i] > max) {
+        max = array1[i];
+    }
+}
+
+console.log(max);
+
+//  task 3
+
+let word = "JavaScript is awesome";
+let count = 0;
+
+let vowels = ['a', 'e', 'i', 'o', 'u'];
+
+for (let i = 0; i < word.length; i++) {
+    for (let j = 0; j < vowels.length; j++){
+        if (word[i] == vowels[j]) {
+            count = count + 1;
+        }
+    }
+}
+
+console.log(count)
+
+//  task 4
+
+function isPrime (num) {
+    let prime = false;
+
+    for (let i = 2; i < num / 2; i++) {
+        if (num % i == 0){
+            prime = false;
+        } else {
+            prime = true;
+        }
+    }
+
+    if (prime) {
+        console.log("prime")
+    } else {
+        console.log("not prime")
+    }
+}
+
+isPrime(17)
+
+// task 5 
+
+
+
+
+var v1 = "hello";
+var reversed = "";
+
+for (let i = v1.length - 1; i >= 0; i--) {
+    reversed += v1[i];
+}
+
+console.log(reversed); // "olleh"
+
+
+
+
+
+//  task 6 
+
+const array2 =  [1, 2, 3, 4, 5, 6];
+let sum = 0;
+
+for (let i = 0; i < array2.length; i++){
+    if (array2[i] % 2 == 0) {
+        sum = sum + array2[i];
+    }
+}
+
+console.log(sum)
+
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: #f0f8ff;
+    font-family: Arial;
+    padding-top: 50px;
+}
+
+#Rocket {
+    width: 100px;
+    position: relative;
+    transition: transform 2s ease;
+}
+
+.launch {
+    transform: translateY(-300px);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}

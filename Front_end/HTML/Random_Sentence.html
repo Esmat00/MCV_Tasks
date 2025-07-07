@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random Sentence </title>
+
+
+</head>
+<body>
+
+    <h2>Button Sentence</h2>
+
+    <button onclick="showRandomSentence()">Show random sentence</button>
+
+    <p id="sentence"></p>
+
+    <script>
+        
+        const sentences = [
+            "  Engineer Krolls البرمجة ممتعة جدًا مع",
+            "تعلم شيئًا جديدًا اليوم.",
+            "لا تستسلم، النجاح قريب.",
+            "جرب، أخطئ، تعلم، كرر.",
+            "كل يوم فرصة لبداية جديدة.",
+            "ابدأ ولو بخطوة بسيطة.",
+
+        ];
+
+        function showRandomSentence() {
+
+    let sentence = sentences[Math.floor(Math.random() * sentences.length)];
+
+    
+    document.getElementById("sentence").textContent = sentence;
+}
+
+    </script>
+
+</body>
+</html>

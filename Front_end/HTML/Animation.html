@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sticker Animation</title>
+    <style>
+        body {
+        background-color: #f0f0f0;
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        }
+
+        .box {
+        width: 300px;
+        height: 300px;
+        background-color: #fff;
+        border: 3px solid #333;
+        position: relative;
+        overflow: hidden;
+        }
+
+        .sticker1, .sticker2 {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        bottom: 10px;
+        }
+
+        .sticker1 {
+        animation: moveRightLeft1 3s ease-in-out infinite;
+        }
+
+        .sticker2 {
+        animation: moveRightLeft2 3s ease-in-out infinite;
+        }
+
+        @keyframes moveRightLeft1 {
+        0%   { left: 0; }
+        50%  { left: 250px; }
+        100% { left: 0; }
+
+/* moveUpDown1  */
+
+        /* 0%   { top: 0; }
+        50%  { top: 250px; }
+        100% { top: 0; }  */
+        }
+
+
+        @keyframes moveRightLeft2 {
+        0%   { left: 250px; }
+        50%  { left: 0; }
+        100% { left: 250px; }
+
+/* moveUpDown2 */
+
+        /* 0%   { top: 250px; }
+        50%  { top: 0; }
+        100% { top: 250px; } */
+
+        }
+    </style>
+    </head>
+    <body>
+
+    <div class="box">
+        <img src="img1.jpg.png" class="sticker1" alt="img1">
+        <img src="img2.jpg.png" class="sticker2" alt="img2">
+    </div>
+
+    </body>
+    </html>
