@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset = "utf-8" />
+    <meta name = "author" content = "mahmoud" />
+</head>
+
+ <body>
+    <style>
+        body{
+            background-color: #34b4ca;
+        }
+    </style>
+
+
+    <h1>Contact Us</h1>
+
+    <form method = "post">
+
+        <label for = "FullName">Full Name</label>
+        <br>
+        <input required type = "text" id = "FullName" />
+
+        <br>
+        <br>
+
+        <label required for = "Email">Email Address</label>
+        <br>
+        <input type = "email" id = "Email" />
+
+        <br>
+        <br>
+
+        <label for = "PhoneNumber">Phone Number</label>
+        <br>
+        <input required type = "text" id = "PhoneNumber" />
+
+        <br>
+        <br>
+
+        <label for = "Age">Age</label>
+        <br>
+        <input required type = "number" id = "Age" />
+
+        <br>
+        <br>
+
+        <label for = "PhoneNumber">Preferred Contact Method</label>
+        <br>
+
+        
+        <label for = "PhoneOption">Phone Number</label>
+        <input required type = "radio" id = "PhoneOption" value = "PhoneNumberVlaue" name = "Option"/>
+
+         <label for = "EmailOption">Email</label>
+        <input required type = "radio" id = "EmailOption" value = "EmailOptionValue" name = "Option" />
+
+        <br>
+        <br>
+
+        <label for = "Service">Services Intersted In : </label>
+        <br>
+        <label for = "ServiceInput1">Web Design</label>
+        <input required type = "radio" name = "Service" id = "WebDesignService" />
+
+        <label for = "ServiceInput2">SEO</label>
+        <input required type = "radio" name = "Service" id = "SEOService" />
+
+        <label for = "ServiceInput2">Hosting</label>
+        <input required type = "radio" name = "Service" id = "HostingService" />
+
+        <br>
+        <br>
+
+        <label for = "CityList">City :</label>
+        <br>
+        <select id = "CityList">
+            <option selected>non-selected</option>
+            <option value = "Giza">Giza</option>
+            <option value = "Cairo">Cairo</option>
+            <option value = "Zagazig">Zagazig</option>
+        </select>
+
+        <br>
+        <br>
+
+        <label for = "MessageAreaFiled">Your Message :</label>
+        <br>
+        <textarea placeholder = "Write Your Message Here ...." cols = "25" rows = "8"></textarea>
+
+        <br>
+        <br>
+
+        <button type = "submit">Submit Data</button>
+
+
+    </form>
+
+</body>
+
+</html>
