@@ -1,0 +1,70 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>FAQ SlideToggle</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <script> 
+    $(document).ready(function(){
+        $("#flip1").click(function(){
+            $("#panel1").slideToggle("fast");
+        });
+        $("#flip2").click(function(){
+            $("#panel2").slideToggle("fast");
+        });
+        $("#flip3").click(function(){
+            $("#panel3").slideToggle("fast");
+        });
+    });
+    </script>
+
+    <style>
+    body {
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+    .section {
+        width: 80%;
+
+        margin-bottom: 20px;
+    }
+
+    #panel1, #panel2, #panel3, #flip1, #flip2, #flip3 {
+        padding: 15px;
+        
+        border: solid 1px #c3c3c3;
+
+    }
+
+    #panel1, #panel2, #panel3 {
+        display: none;
+    }
+    </style>
+</head>
+<body>
+    <h1>Frequently Asked Questions</h1>
+
+    <div class="section">
+        <div id="flip1">What is jQuery?</div>
+        <div id="panel1">jQuery is a lightweight write less do more JavaScript library.</div>
+    </div>
+
+    <div class="section">
+        <div id="flip2">Why jQuery?</div>
+        <div id="panel2">There are lots of other JavaScript libraries out there.</div>
+    </div>
+
+    <div class="section">
+        <div id="flip3">What You Should Already Know?</div>
+        <div id="panel3">Before you start studying jQuery you should have a basic knowledge.</div>
+    </div>
+
+</body>
+</html>
