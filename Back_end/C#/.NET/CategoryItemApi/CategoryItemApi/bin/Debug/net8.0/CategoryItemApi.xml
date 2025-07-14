@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CategoryItemApi</name>
+    </assembly>
+    <members>
+        <member name="T:CategoryItemApi.Migrations.InitCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:CategoryItemApi.Migrations.InitCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CategoryItemApi.Migrations.InitCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:CategoryItemApi.Migrations.InitCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

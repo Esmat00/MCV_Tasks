@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|c:\\users\\mahmoud esmat\\documents\\mcv\\mcv_tasks\\back_end\\c#\\.net\\todolistapp\\todolistapp\\migrations\\20250707084929_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B914F685-B0A2-48B4-8306-A999277778C7}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\migrations\\20250707084929_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ToDoListApp\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\wwwroot\\index.html",
+              "RelativeToolTip": "ToDoListApp\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-09T13:44:21.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Program.cs",
+              "RelativeToolTip": "ToDoListApp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:27:38.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoListApp\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:29:08.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\appsettings.json",
+              "RelativeToolTip": "ToDoListApp\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T08:26:55.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Data\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "ToDoListApp\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:24:46.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoTask.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Models\\ToDoTask.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Models\\ToDoTask.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Models\\ToDoTask.cs",
+              "RelativeToolTip": "ToDoListApp\\Models\\ToDoTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:23:19.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250707084929_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Migrations\\20250707084929_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Migrations\\20250707084929_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Mahmoud Esmat\\Documents\\MCV\\MCV_Tasks\\Back_end\\C#\\.NET\\ToDoListApp\\ToDoListApp\\Migrations\\20250707084929_InitialCreate.cs",
+              "RelativeToolTip": "ToDoListApp\\Migrations\\20250707084929_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:49:29.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
